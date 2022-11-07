@@ -23,6 +23,7 @@ public class MyToggleButton extends AppCompatActivity {
             public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
                 Toast.makeText(MyToggleButton.this, " Value is = " + b, Toast.LENGTH_LONG).show();
             }
+
         });
 
         switchCompat.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
