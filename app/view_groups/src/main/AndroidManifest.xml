@@ -21,6 +21,29 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+
+        <activity
+            android:name=".MyGridLayout"
+            android:exported="false" />
+        <activity
+            android:name=".MyTableLayout"
+            android:exported="false" />
+        <activity
+            android:name=".MyFrameLayout"
+            android:exported="false" />
+        <activity
+            android:name=".MyConstraintLayout"
+            android:exported="false" />
+        <activity
+            android:name=".MyRelativeLayout"
+            android:exported="false" />
+        <activity
+            android:name=".MyScrollViewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MyLinearLayout"
+            android:exported="false" />
+
     </application>
 
 </manifest>

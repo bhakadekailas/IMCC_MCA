@@ -4,29 +4,26 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MyCheckBox">
 
-    <TextView
-        android:id="@+id/textView"
+    <CheckBox
+        android:id="@+id/check_box_option1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="80dp"
-        android:text="@string/this_is_first_activity"
-        android:textSize="25sp"
-        android:textColor="@color/teal_200"
+        android:layout_marginTop="68dp"
+        android:text="abc"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <Button
-        android:id="@+id/buttonMain"
+    <CheckBox
+        android:id="@+id/check_box_option2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="80dp"
-        android:text="@string/call_activity_2"
+        android:layout_marginTop="48dp"
+        android:text="@string/option_2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView" />
-
+        app:layout_constraintTop_toBottomOf="@+id/check_box_option1" />
 </androidx.constraintlayout.widget.ConstraintLayout>

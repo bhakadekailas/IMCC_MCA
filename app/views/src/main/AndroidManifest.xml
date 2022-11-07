@@ -21,6 +21,54 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+        <activity
+            android:name=".MyCustomDialog"
+            android:exported="false" />
+        <activity
+            android:name=".MyTimePicker"
+            android:exported="false" />
+        <activity
+            android:name=".MyDatePicker"
+            android:exported="false" />
+        <activity
+            android:name=".MyAlertDialog"
+            android:exported="false" />
+        <activity
+            android:name=".MyAutoCompleteText"
+            android:exported="false" />
+        <activity
+            android:name=".MyProgressBar"
+            android:exported="false" />
+        <activity
+            android:name=".MyScrollView"
+            android:exported="false" />
+        <activity
+            android:name=".MyToast"
+            android:exported="false" />
+        <activity
+            android:name=".MyEditText"
+            android:exported="false" />
+        <activity
+            android:name=".MyToggleButton"
+            android:exported="false" />
+        <activity
+            android:name=".MyRadioButton"
+            android:exported="false" />
+        <activity
+            android:name=".MyCheckBox"
+            android:exported="false" />
+        <activity
+            android:name=".MySimpleButton"
+            android:exported="false" />
+        <activity
+            android:name=".MyImageButton"
+            android:exported="false" />
+        <activity
+            android:name=".MySpinner"
+            android:exported="false" />
+        <activity
+            android:name=".MySimpleListView"
+            android:exported="false" />
     </application>
 
 </manifest>
