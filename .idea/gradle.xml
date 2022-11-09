@@ -11,7 +11,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/adapterdemo" />
+            <option value="$PROJECT_DIR$/app/dialogsdemo" />
             <option value="$PROJECT_DIR$/app/intents" />
+            <option value="$PROJECT_DIR$/app/menusdemo" />
+            <option value="$PROJECT_DIR$/app/notificationsdemo" />
             <option value="$PROJECT_DIR$/app/view_groups" />
             <option value="$PROJECT_DIR$/app/views" />
           </set>

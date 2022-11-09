@@ -4,4 +4,11 @@
     <string name="call_activity_2">call activity 2</string>
     <string name="this_is_second_activity">This is Second Activity</string>
     <string name="back_to_activity_one">Back to Activity One</string>
+    <string name="explicit_intent">Explicit Intent</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="intent_filter">Intent Filter</string>
+    <string name="camera">Camera</string>
+    <string name="share">Share</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="shared_image">Shared Image</string>
 </resources>

@@ -21,18 +21,7 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
-        <activity
-            android:name=".MyCustomDialog"
-            android:exported="false" />
-        <activity
-            android:name=".MyTimePicker"
-            android:exported="false" />
-        <activity
-            android:name=".MyDatePicker"
-            android:exported="false" />
-        <activity
-            android:name=".MyAlertDialog"
-            android:exported="false" />
+
         <activity
             android:name=".MyAutoCompleteText"
             android:exported="false" />
