@@ -9,6 +9,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.IMCC_MCA2022">
         <activity
+            android:name=".MyPopupMenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MyContextMenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MyOptionMenuActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

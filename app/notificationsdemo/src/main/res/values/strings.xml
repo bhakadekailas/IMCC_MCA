@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NotificationsDemo</string>
+    <string name="create_notification">Create Notification</string>
+    <string name="this_is_next_activity">This is next activity</string>
 </resources>

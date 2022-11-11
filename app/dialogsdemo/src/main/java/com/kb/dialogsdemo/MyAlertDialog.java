@@ -43,13 +43,14 @@ public class MyAlertDialog extends AppCompatActivity {
                     @Override
                     public void onClick(DialogInterface arg0, int arg1) {
                         Toast.makeText(MyAlertDialog.this, "You clicked YES button", Toast.LENGTH_LONG).show();
+                        finish();
                     }
                 });
 
         alertDialogBuilder.setNegativeButton("NO", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
-                finish();
+//                finish();
             }
         });
         AlertDialog alertDialog = alertDialogBuilder.create();
