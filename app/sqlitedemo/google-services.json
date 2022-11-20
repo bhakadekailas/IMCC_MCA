@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737313197177",
+    "project_id": "imcc-mca2022",
+    "storage_bucket": "imcc-mca2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737313197177:android:14571aba4d36a6359f18a8",
+        "android_client_info": {
+          "package_name": "com.kb.sqlitedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737313197177-c7rtk78ahpm0c84t6jq1q5iopo741knj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqKCSydWETfwLrkii84F8Hzp52h3ArrzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737313197177-c7rtk78ahpm0c84t6jq1q5iopo741knj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

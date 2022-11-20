@@ -19,6 +19,7 @@
             <option value="$PROJECT_DIR$/app/sqlitedemo" />
             <option value="$PROJECT_DIR$/app/view_groups" />
             <option value="$PROJECT_DIR$/app/views" />
+            <option value="$PROJECT_DIR$/app/webviewdemo" />
           </set>
         </option>
       </GradleProjectSettings>

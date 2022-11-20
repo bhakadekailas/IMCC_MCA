@@ -10,4 +10,5 @@
     <string name="signup">SignUp</string>
     <string name="imcc_logo">Imcc Logo</string>
     <string name="this_is_dashboard_screen">This is dashboard screen</string>
+    <string name="sign_out">Sign Out</string>
 </resources>
