@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WebServicesDemo</string>
+    <string name="using_retrofit">Using Retrofit</string>
+    <string name="using_okhttp">Using OkHttp</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_job">Enter your job</string>
+    <string name="send_data_to_api">Post Data</string>
+    <string name="response">Response</string>
+    <string name="get_data">Get Data</string>
+</resources>

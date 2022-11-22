@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         webView.clearCache(true);
         webView.clearHistory();
         webView.getSettings().setJavaScriptEnabled(true);
-        webView.setWebViewClient(new WebViewClient());
-        webView.loadUrl("https://www.google.co.in/");
+        webView.setWebViewClient(new WebViewClient(){});
+        webView.loadUrl("https://moderncoe.edu.in/");
     }
 }
